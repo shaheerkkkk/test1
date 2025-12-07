@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-STREAM-INF:BANDWIDTH=1020000,RESOLUTION=1280x720,NAME="Stream 1"
+https://tapmadlive.akamaized.net/tapmadold/sunnews.smil/chunklist_w1421645533_b1248000_slENG.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1010000,RESOLUTION=720x404,NAME="Stream 2"
+https://tapmadlive.akamaized.net/tapmadold/sunnews.smil/chunklist_w1421645533_b748000_slEng.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=480x270,NAME="Stream 3"
+https://tapmadlive.akamaized.net/tapmadold/sunnews.smil/chunklist_w1421645533_b298000_slENG.m3u8
