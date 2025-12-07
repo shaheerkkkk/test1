@@ -1,13 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXT-X-STREAM-INF:BANDWIDTH=1040000,RESOLUTION=1920x1080,NAME="Stream 1"
-https://live.streamly.com.co:8081/92news-pk/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1030000,RESOLUTION=1280x720,NAME="Stream 2"
+#EXT-X-STREAM-INF:BANDWIDTH=1030000,RESOLUTION=720x576,NAME="Stream 1"
 https://nayatvfe4.nayatel.com:3030/live2/channel08hd.stream/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1020000,RESOLUTION=854x480,NAME="Stream 3"
-https://tapmadlive.akamaized.net/tapmadold/92news.smil/chunklist_w393640243_b1248000_slENG.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1010000,RESOLUTION=640x360,NAME="Stream 4"
-https://tapmadlive.akamaized.net/tapmadold/92news.smil/chunklist_w393640243_b748000_slEng.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=426x240,NAME="Stream 5"
-https://tapmadlive.akamaized.net/tapmadold/92news.smil/chunklist_w393640243_b298000_slENG.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1020000,RESOLUTION=1280x720,NAME="Stream 2"
+https://tapmadlive.akamaized.net/tapmadold/92news.smil/chunklist_w560486598_b1248000_slENG.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1010000,RESOLUTION=720x404,NAME="Stream 3"
+https://tapmadlive.akamaized.net/tapmadold/92news.smil/chunklist_w560486598_b748000_slEng.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=480x270,NAME="Stream 4"
+https://tapmadlive.akamaized.net/tapmadold/92news.smil/chunklist_w560486598_b298000_slENG.m3u8

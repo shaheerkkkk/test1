@@ -1,9 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXT-X-STREAM-INF:BANDWIDTH=1020000,RESOLUTION=1920x1080,NAME="Stream 1"
+#EXT-X-STREAM-INF:BANDWIDTH=1010000,RESOLUTION=1280x720,NAME="Stream 1"
 https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1010000,RESOLUTION=1280x720,NAME="Stream 2"
-https://cdn05khi.tamashaweb.com:8087/jazzauth/GeoEntertainment-abr/live/livesoon/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=854x480,NAME="Stream 3"
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=1280x720,NAME="Stream 2"
 https://livestream6.nayatel.com:3030/live4/channel40hd.stream/chunks.m3u8

@@ -1,13 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXT-X-STREAM-INF:BANDWIDTH=1040000,RESOLUTION=1920x1080,NAME="Stream 1"
+#EXT-X-STREAM-INF:BANDWIDTH=1030000,RESOLUTION=1920x1080,NAME="Stream 1"
 https://cdn02khi.tamashaweb.com:8087/jazzauth/ARYzindagi-abr/live/vsat-aryzindagi-H/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1030000,RESOLUTION=1280x720,NAME="Stream 2"
+#EXT-X-STREAM-INF:BANDWIDTH=1020000,RESOLUTION=720x480,NAME="Stream 2"
 https://cdn02khi.tamashaweb.com:8087/jazzauth/ARYzindagi-abr/live/vsat-aryzindagi-M/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1020000,RESOLUTION=854x480,NAME="Stream 3"
+#EXT-X-STREAM-INF:BANDWIDTH=1010000,RESOLUTION=640x360,NAME="Stream 3"
 https://cdn02khi.tamashaweb.com:8087/jazzauth/ARYzindagi-abr/live/vsat-aryzindagi-L/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1010000,RESOLUTION=640x360,NAME="Stream 4"
-https://live.streamly.com.co:8081/aryzindagi/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=426x240,NAME="Stream 5"
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=1280x720,NAME="Stream 4"
 https://nayatvfe5.nayatel.com:3030/live2/channel39sd.stream/chunks.m3u8

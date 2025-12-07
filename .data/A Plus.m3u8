@@ -1,15 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXT-X-STREAM-INF:BANDWIDTH=1050000,RESOLUTION=1920x1080,NAME="Stream 1"
+#EXT-X-STREAM-INF:BANDWIDTH=1030000,RESOLUTION=1280x720,NAME="Stream 1"
 https://s3.ideationtec.live/A_Plus/A_Plus.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1040000,RESOLUTION=1280x720,NAME="Stream 2"
-https://cdn12isb.tamashaweb.com:8087/jazzauth/Aplus-abr/live/livesoon/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1030000,RESOLUTION=854x480,NAME="Stream 3"
-https://live.streamly.com.co:8081/pk-aplus/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1020000,RESOLUTION=640x360,NAME="Stream 4"
+#EXT-X-STREAM-INF:BANDWIDTH=1020000,RESOLUTION=720x576,NAME="Stream 2"
 https://livestream6.nayatel.com:3030/live4/channel78sd.stream/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1010000,RESOLUTION=426x240,NAME="Stream 5"
-https://tapmadlive.akamaized.net/tapmadold/aplus.smil/chunklist_w1639596205_b748000_slEng.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=320x180,NAME="Stream 6"
-https://tapmadlive.akamaized.net/tapmadold/aplus.smil/chunklist_w1639596205_b298000_slENG.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1010000,RESOLUTION=1024x576,NAME="Stream 3"
+https://tapmadlive.akamaized.net/tapmadold/aplus.smil/chunklist_w224848031_b748000_slEng.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=320x180,NAME="Stream 4"
+https://tapmadlive.akamaized.net/tapmadold/aplus.smil/chunklist_w224848031_b298000_slENG.m3u8

@@ -1,17 +1,15 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXT-X-STREAM-INF:BANDWIDTH=1060000,RESOLUTION=1920x1080,NAME="Stream 1"
+#EXT-X-STREAM-INF:BANDWIDTH=1050000,RESOLUTION=1280x720,NAME="Stream 1"
 https://s2.ideationtec.live/City_42/City_42.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1050000,RESOLUTION=1280x720,NAME="Stream 2"
-https://cdn05khi.tamashaweb.com:8087/jazzauth/city42(vnw)-abr/live/vsat-111H/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1040000,RESOLUTION=854x480,NAME="Stream 3"
+#EXT-X-STREAM-INF:BANDWIDTH=1040000,RESOLUTION=640x360,NAME="Stream 2"
 https://cdn05khi.tamashaweb.com:8087/jazzauth/city42(vnw)-abr/live/vsat-111M/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1030000,RESOLUTION=640x360,NAME="Stream 4"
+#EXT-X-STREAM-INF:BANDWIDTH=1030000,RESOLUTION=480x270,NAME="Stream 3"
 https://cdn05khi.tamashaweb.com:8087/jazzauth/city42(vnw)-abr/live/vsat-111L/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1020000,RESOLUTION=426x240,NAME="Stream 5"
+#EXT-X-STREAM-INF:BANDWIDTH=1020000,RESOLUTION=1280x720,NAME="Stream 4"
 https://nayatvfe7.nayatel.com:3030/live2/channel105hd.stream/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1010000,RESOLUTION=320x180,NAME="Stream 6"
-https://tapmadlive.akamaized.net/tapmadold/city42.smil/chunklist_w732428592_b748000_slEng.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=320x180,NAME="Stream 7"
-https://tapmadlive.akamaized.net/tapmadold/city42.smil/chunklist_w732428592_b298000_slENG.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1010000,RESOLUTION=1024x576,NAME="Stream 5"
+https://tapmadlive.akamaized.net/tapmadold/city42.smil/chunklist_w195725340_b748000_slEng.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=320x180,NAME="Stream 6"
+https://tapmadlive.akamaized.net/tapmadold/city42.smil/chunklist_w195725340_b298000_slENG.m3u8

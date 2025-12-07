@@ -1,11 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXT-X-STREAM-INF:BANDWIDTH=1030000,RESOLUTION=1920x1080,NAME="Stream 1"
+#EXT-X-STREAM-INF:BANDWIDTH=1020000,RESOLUTION=480x270,NAME="Stream 1"
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/MovieOne-abr/live/vsat-95L/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1020000,RESOLUTION=1280x720,NAME="Stream 2"
+#EXT-X-STREAM-INF:BANDWIDTH=1010000,RESOLUTION=1280x720,NAME="Stream 2"
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/MovieOne-abr/live/vsat-95H/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1010000,RESOLUTION=854x480,NAME="Stream 3"
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=720x480,NAME="Stream 3"
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/MovieOne-abr/live/vsat-95M/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=640x360,NAME="Stream 4"
-https://nayatvfe3.nayatel.com:3030/live4/channel184sd.stream/playlist.m3u8
