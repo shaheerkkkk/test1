@@ -4,14 +4,14 @@
 #EXT-X-STREAM-INF:BANDWIDTH=1006000,PROGRAM-ID=1,NAME="High Quality",DEFAULT=YES
 https://s4.ideationtec.live/News_365/News_365.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1005000,PROGRAM-ID=1,NAME="Medium Quality"
-https://cdn05khi.tamashaweb.com:8087/jazzauth/365News-abr/live/vsat-abnnews-H/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1004000,PROGRAM-ID=1,NAME="Medium Quality"
 https://cdn05khi.tamashaweb.com:8087/jazzauth/365News-abr/live/vsat-abnnews-M/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1003000,PROGRAM-ID=1,NAME="Medium Quality"
+#EXT-X-STREAM-INF:BANDWIDTH=1004000,PROGRAM-ID=1,NAME="Medium Quality"
 https://cdn05khi.tamashaweb.com:8087/jazzauth/365News-abr/live/vsat-abnnews-L/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1003000,PROGRAM-ID=1,NAME="Medium Quality"
+https://nayatvfe5.nayatel.com:3030/live2/channel30hd.stream/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1002000,PROGRAM-ID=1,NAME="Medium Quality"
-https://tapmadlive.akamaized.net/tapmadold/365news.smil/chunklist_w1814382839_b1248000_slENG.m3u8
+https://tapmadlive.akamaized.net/tapmadold/365news.smil/chunklist_w1371857953_b1248000_slENG.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1001000,PROGRAM-ID=1,NAME="Medium Quality"
-https://tapmadlive.akamaized.net/tapmadold/365news.smil/chunklist_w1814382839_b748000_slEng.m3u8
+https://tapmadlive.akamaized.net/tapmadold/365news.smil/chunklist_w1371857953_b748000_slEng.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1,NAME="Low Quality"
-https://tapmadlive.akamaized.net/tapmadold/365news.smil/chunklist_w1814382839_b298000_slENG.m3u8
+https://tapmadlive.akamaized.net/tapmadold/365news.smil/chunklist_w1371857953_b298000_slENG.m3u8

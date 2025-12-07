@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:BANDWIDTH=1001000,PROGRAM-ID=1,NAME="High Quality",DEFAULT=YES
-https://tapmadlive.akamaized.net/tapmadold/playmax.smil/chunklist_w211929110_b748000_slEng.m3u8
+https://tapmadlive.akamaized.net/tapmadold/playmax.smil/chunklist_w1843079231_b748000_slEng.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1,NAME="Low Quality"
-https://tapmadlive.akamaized.net/tapmadold/playmax.smil/chunklist_w211929110_b298000_slENG.m3u8
+https://tapmadlive.akamaized.net/tapmadold/playmax.smil/chunklist_w1843079231_b298000_slENG.m3u8

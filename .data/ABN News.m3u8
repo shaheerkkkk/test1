@@ -1,17 +1,19 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXT-X-STREAM-INF:BANDWIDTH=1006000,PROGRAM-ID=1,NAME="High Quality",DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1007000,PROGRAM-ID=1,NAME="High Quality",DEFAULT=YES
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/ABNnews-abr/live/vsat-aurlife-H/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1005000,PROGRAM-ID=1,NAME="Medium Quality"
+#EXT-X-STREAM-INF:BANDWIDTH=1006000,PROGRAM-ID=1,NAME="Medium Quality"
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/ABNnews-abr/live/vsat-aurlife-M/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1004000,PROGRAM-ID=1,NAME="Medium Quality"
+#EXT-X-STREAM-INF:BANDWIDTH=1005000,PROGRAM-ID=1,NAME="Medium Quality"
 https://live.streamly.com.co:8081/abnnews/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1004000,PROGRAM-ID=1,NAME="Medium Quality"
+https://nayatvfe3.nayatel.com:3030/live2/channel140hd.stream/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1003000,PROGRAM-ID=1,NAME="Medium Quality"
-https://tapmadlive.akamaized.net/tapmadold/ABNnews.smil/chunklist_w470297598_b1248000_slENG.m3u8
+https://tapmadlive.akamaized.net/tapmadold/ABNnews.smil/chunklist_w1748198226_b1248000_slENG.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1002000,PROGRAM-ID=1,NAME="Medium Quality"
-https://tapmadlive.akamaized.net/tapmadold/ABNnews.smil/chunklist_w470297598_b748000_slEng.m3u8
+https://tapmadlive.akamaized.net/tapmadold/ABNnews.smil/chunklist_w1748198226_b748000_slEng.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1001000,PROGRAM-ID=1,NAME="Medium Quality"
-https://tapmadlive.akamaized.net/tapmadold/ABNnews.smil/chunklist_w470297598_b298000_slENG.m3u8
+https://tapmadlive.akamaized.net/tapmadold/ABNnews.smil/chunklist_w1748198226_b298000_slENG.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1,NAME="Low Quality"
-https://video.abnnews.pk/abn/live/chunklist_w1680704658.m3u8
+https://video.abnnews.pk/abn/live/chunklist_w1399985623.m3u8

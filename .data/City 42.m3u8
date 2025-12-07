@@ -1,15 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXT-X-STREAM-INF:BANDWIDTH=1005000,PROGRAM-ID=1,NAME="High Quality",DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1003000,PROGRAM-ID=1,NAME="High Quality",DEFAULT=YES
 https://s2.ideationtec.live/City_42/City_42.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1004000,PROGRAM-ID=1,NAME="Medium Quality"
-https://cdn05khi.tamashaweb.com:8087/jazzauth/city42(vnw)-abr/live/vsat-111H/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1003000,PROGRAM-ID=1,NAME="Medium Quality"
-https://cdn05khi.tamashaweb.com:8087/jazzauth/city42(vnw)-abr/live/vsat-111M/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1002000,PROGRAM-ID=1,NAME="Medium Quality"
-https://cdn05khi.tamashaweb.com:8087/jazzauth/city42(vnw)-abr/live/vsat-111L/chunks.m3u8
+https://cdn05khi.tamashaweb.com:8087/jazzauth/city42(vnw)-abr/playlist.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1001000,PROGRAM-ID=1,NAME="Medium Quality"
-https://tapmadlive.akamaized.net/tapmadold/city42.smil/chunklist_w967837710_b748000_slEng.m3u8
+https://nayatvfe7.nayatel.com:3030/live2/channel105hd.stream/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1,NAME="Low Quality"
-https://tapmadlive.akamaized.net/tapmadold/city42.smil/chunklist_w967837710_b298000_slENG.m3u8
+https://tapmadlive.akamaized.net/tapmadold/city42.smil/playlist.m3u8

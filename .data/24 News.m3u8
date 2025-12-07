@@ -1,17 +1,19 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXT-X-STREAM-INF:BANDWIDTH=1006000,PROGRAM-ID=1,NAME="High Quality",DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1007000,PROGRAM-ID=1,NAME="High Quality",DEFAULT=YES
 https://s4.ideationtec.live/Channel_24_HD/Channel_24_HD.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1005000,PROGRAM-ID=1,NAME="Medium Quality"
+#EXT-X-STREAM-INF:BANDWIDTH=1006000,PROGRAM-ID=1,NAME="Medium Quality"
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/24News-abr/live/vsat-92H/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1004000,PROGRAM-ID=1,NAME="Medium Quality"
+#EXT-X-STREAM-INF:BANDWIDTH=1005000,PROGRAM-ID=1,NAME="Medium Quality"
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/24News-abr/live/vsat-92M/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1003000,PROGRAM-ID=1,NAME="Medium Quality"
+#EXT-X-STREAM-INF:BANDWIDTH=1004000,PROGRAM-ID=1,NAME="Medium Quality"
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/24News-abr/live/vsat-92L/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1003000,PROGRAM-ID=1,NAME="Medium Quality"
+https://livestream6.nayatel.com:3030/live2/channel101hd.stream/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1002000,PROGRAM-ID=1,NAME="Medium Quality"
-https://tapmadlive.akamaized.net/tapmadold/channel24.smil/chunklist_w1084805078_b1248000_slEng.m3u8
+https://tapmadlive.akamaized.net/tapmadold/channel24.smil/chunklist_w180487327_b1248000_slEng.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1001000,PROGRAM-ID=1,NAME="Medium Quality"
-https://tapmadlive.akamaized.net/tapmadold/channel24.smil/chunklist_w1084805078_b748000_slEng.m3u8
+https://tapmadlive.akamaized.net/tapmadold/channel24.smil/chunklist_w180487327_b748000_slEng.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1,NAME="Low Quality"
-https://tapmadlive.akamaized.net/tapmadold/channel24.smil/chunklist_w1084805078_b298000_slENG.m3u8
+https://tapmadlive.akamaized.net/tapmadold/channel24.smil/chunklist_w180487327_b298000_slENG.m3u8
