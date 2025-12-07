@@ -2,14 +2,14 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
-https://cdn05khi.tamashaweb.com:8087/jazzauth/city42(vnw)-abr/live/vsat-111M/chunks.m3u8?nimblesessionid=57660968
-#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
-https://tapmadlive.akamaized.net/tapmadold/city42.smil/chunklist_w1222741316_b748000_slEng.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,PROGRAM-ID=1
-https://cdn05khi.tamashaweb.com:8087/jazzauth/city42(vnw)-abr/live/vsat-111H/chunks.m3u8?nimblesessionid=57660968
-#EXT-X-STREAM-INF:BANDWIDTH=4000000,PROGRAM-ID=1
 https://s2.ideationtec.live/City_42/City_42.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,PROGRAM-ID=1
-https://tapmadlive.akamaized.net/tapmadold/city42.smil/chunklist_w1222741316_b298000_slENG.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=6000000,PROGRAM-ID=1
-https://cdn05khi.tamashaweb.com:8087/jazzauth/city42(vnw)-abr/live/vsat-111L/chunks.m3u8?nimblesessionid=57660968
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
+https://cdn05khi.tamashaweb.com:8087/jazzauth/city42(vnw)-abr/live/vsat-111H/chunks.m3u8?nimblesessionid=57677065
+#EXT-X-STREAM-INF:BANDWIDTH=2001000,PROGRAM-ID=1
+https://cdn05khi.tamashaweb.com:8087/jazzauth/city42(vnw)-abr/live/vsat-111M/chunks.m3u8?nimblesessionid=57677065
+#EXT-X-STREAM-INF:BANDWIDTH=2002000,PROGRAM-ID=1
+https://cdn05khi.tamashaweb.com:8087/jazzauth/city42(vnw)-abr/live/vsat-111L/chunks.m3u8?nimblesessionid=57677065
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,PROGRAM-ID=1
+https://tapmadlive.akamaized.net/tapmadold/city42.smil/chunklist_w1828624959_b748000_slEng.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3001000,PROGRAM-ID=1
+https://tapmadlive.akamaized.net/tapmadold/city42.smil/chunklist_w1828624959_b298000_slENG.m3u8

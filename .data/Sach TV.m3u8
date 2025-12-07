@@ -2,8 +2,10 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/SachTV/live/vsat-suchnews-M/chunks.m3u8?nimblesessionid=69224319
-#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/SachTV/live/vsat-suchnews-L/chunks.m3u8?nimblesessionid=69224319
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,PROGRAM-ID=1
 https://s4.ideationtec.live/Such_TV_HD/Such_TV_HD.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/SachTV/live/vsat-suchnews-H/chunks.m3u8?nimblesessionid=69252955
+#EXT-X-STREAM-INF:BANDWIDTH=2001000,PROGRAM-ID=1
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/SachTV/live/vsat-suchnews-M/chunks.m3u8?nimblesessionid=69252955
+#EXT-X-STREAM-INF:BANDWIDTH=2002000,PROGRAM-ID=1
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/SachTV/live/vsat-suchnews-L/chunks.m3u8?nimblesessionid=69252955

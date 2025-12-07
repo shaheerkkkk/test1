@@ -4,8 +4,8 @@
 #EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
 https://s1.ideationtec.live/SET_Ent/SET_Ent.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
-https://cdn12isb.tamashaweb.com:8087/jazzauth/SetEntertainment-abr/live/vsat-setent-L/chunks.m3u8?nimblesessionid=7947056
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,PROGRAM-ID=1
-https://cdn12isb.tamashaweb.com:8087/jazzauth/SetEntertainment-abr/live/vsat-setent-H/chunks.m3u8?nimblesessionid=7947056
-#EXT-X-STREAM-INF:BANDWIDTH=4000000,PROGRAM-ID=1
-https://cdn12isb.tamashaweb.com:8087/jazzauth/SetEntertainment-abr/live/vsat-setent-M/chunks.m3u8?nimblesessionid=7947056
+https://cdn12isb.tamashaweb.com:8087/jazzauth/SetEntertainment-abr/live/vsat-setent-H/chunks.m3u8?nimblesessionid=7972626
+#EXT-X-STREAM-INF:BANDWIDTH=2001000,PROGRAM-ID=1
+https://cdn12isb.tamashaweb.com:8087/jazzauth/SetEntertainment-abr/live/vsat-setent-M/chunks.m3u8?nimblesessionid=7972626
+#EXT-X-STREAM-INF:BANDWIDTH=2002000,PROGRAM-ID=1
+https://cdn12isb.tamashaweb.com:8087/jazzauth/SetEntertainment-abr/live/vsat-setent-L/chunks.m3u8?nimblesessionid=7972626

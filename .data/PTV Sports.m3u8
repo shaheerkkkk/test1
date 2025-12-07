@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/live/livesoon/chunks.m3u8?nimblesessionid=74394884
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/live/livesoon/chunks.m3u8?nimblesessionid=74415074
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
 https://live.streamly.com.co:8081/pk-ptvsports/index.m3u8

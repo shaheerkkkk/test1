@@ -2,14 +2,14 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
-https://cdn12isb.tamashaweb.com:8087/jazzauth/AajNews-abr/live/vsat-96M/chunks.m3u8?nimblesessionid=7946767
-#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
 https://s4.ideationtec.live/Aaj_News/Aaj_News.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
+https://cdn12isb.tamashaweb.com:8087/jazzauth/AajNews-abr/live/vsat-96H/chunks.m3u8?nimblesessionid=7972074
+#EXT-X-STREAM-INF:BANDWIDTH=2001000,PROGRAM-ID=1
+https://cdn12isb.tamashaweb.com:8087/jazzauth/AajNews-abr/live/vsat-96M/chunks.m3u8?nimblesessionid=7972074
+#EXT-X-STREAM-INF:BANDWIDTH=2002000,PROGRAM-ID=1
+https://cdn12isb.tamashaweb.com:8087/jazzauth/AajNews-abr/live/vsat-96L/chunks.m3u8?nimblesessionid=7972074
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,PROGRAM-ID=1
-https://cdn12isb.tamashaweb.com:8087/jazzauth/AajNews-abr/live/vsat-96L/chunks.m3u8?nimblesessionid=7946767
-#EXT-X-STREAM-INF:BANDWIDTH=4000000,PROGRAM-ID=1
-https://cdn12isb.tamashaweb.com:8087/jazzauth/AajNews-abr/live/vsat-96H/chunks.m3u8?nimblesessionid=7946767
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,PROGRAM-ID=1
-https://ml-pull-dvc-myco.io:2096/AAJ_NEWS/tracks-v1a1/mono.ts.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=6000000,PROGRAM-ID=1
 https://live.streamly.com.co:8081/aajnews/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4000000,PROGRAM-ID=1
+https://ml-pull-dvc-myco.io:2096/AAJ_NEWS/tracks-v1a1/mono.ts.m3u8

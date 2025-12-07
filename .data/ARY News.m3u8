@@ -2,10 +2,10 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
-https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYnews-abr/live/vsat-arynews-M/chunks.m3u8?nimblesessionid=7946817
+https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYnews-abr/live/vsat-arynews-H/chunks.m3u8?nimblesessionid=7972159
+#EXT-X-STREAM-INF:BANDWIDTH=1001000,PROGRAM-ID=1
+https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYnews-abr/live/vsat-arynews-M/chunks.m3u8?nimblesessionid=7972159
+#EXT-X-STREAM-INF:BANDWIDTH=1002000,PROGRAM-ID=1
+https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYnews-abr/live/vsat-arynews-L/chunks.m3u8?nimblesessionid=7972159
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
-https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYnews-abr/live/vsat-arynews-H/chunks.m3u8?nimblesessionid=7946817
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,PROGRAM-ID=1
 https://live.streamly.com.co:8081/pk-arynews/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=4000000,PROGRAM-ID=1
-https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYnews-abr/live/vsat-arynews-L/chunks.m3u8?nimblesessionid=7946817

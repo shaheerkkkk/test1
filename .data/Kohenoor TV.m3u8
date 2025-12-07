@@ -2,8 +2,8 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
-https://cdn05khi.tamashaweb.com:8087/jazzauth/KohinoorTV-abr/live/vsat-87L/chunks.m3u8?nimblesessionid=57661049
-#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
-https://cdn05khi.tamashaweb.com:8087/jazzauth/KohinoorTV-abr/live/vsat-87H/chunks.m3u8?nimblesessionid=57661049
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,PROGRAM-ID=1
-https://cdn05khi.tamashaweb.com:8087/jazzauth/KohinoorTV-abr/live/vsat-87M/chunks.m3u8?nimblesessionid=57661049
+https://cdn05khi.tamashaweb.com:8087/jazzauth/KohinoorTV-abr/live/vsat-87H/chunks.m3u8?nimblesessionid=57677084
+#EXT-X-STREAM-INF:BANDWIDTH=1001000,PROGRAM-ID=1
+https://cdn05khi.tamashaweb.com:8087/jazzauth/KohinoorTV-abr/live/vsat-87M/chunks.m3u8?nimblesessionid=57677084
+#EXT-X-STREAM-INF:BANDWIDTH=1002000,PROGRAM-ID=1
+https://cdn05khi.tamashaweb.com:8087/jazzauth/KohinoorTV-abr/live/vsat-87L/chunks.m3u8?nimblesessionid=57677084

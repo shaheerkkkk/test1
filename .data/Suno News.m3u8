@@ -2,14 +2,14 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
-https://cdn24lhr.tamashaweb.com:8087/jazzauth/Suno_News-abr/live/vsat-89L/chunks.m3u8?nimblesessionid=64011475
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/Suno_News-abr/live/vsat-89H/chunks.m3u8?nimblesessionid=64030873
+#EXT-X-STREAM-INF:BANDWIDTH=1001000,PROGRAM-ID=1
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/Suno_News-abr/live/vsat-89M/chunks.m3u8?nimblesessionid=64030873
+#EXT-X-STREAM-INF:BANDWIDTH=1002000,PROGRAM-ID=1
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/Suno_News-abr/live/vsat-89L/chunks.m3u8?nimblesessionid=64030873
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
-https://cdn24lhr.tamashaweb.com:8087/jazzauth/Suno_News-abr/live/vsat-89M/chunks.m3u8?nimblesessionid=64011475
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,PROGRAM-ID=1
-https://cdn24lhr.tamashaweb.com:8087/jazzauth/Suno_News-abr/live/vsat-89H/chunks.m3u8?nimblesessionid=64011475
-#EXT-X-STREAM-INF:BANDWIDTH=4000000,PROGRAM-ID=1
-https://tapmadlive.akamaized.net/tapmadold/sunnews.smil/chunklist_w1587098795_b298000_slENG.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,PROGRAM-ID=1
-https://tapmadlive.akamaized.net/tapmadold/sunnews.smil/chunklist_w1587098795_b748000_slEng.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=6000000,PROGRAM-ID=1
-https://tapmadlive.akamaized.net/tapmadold/sunnews.smil/chunklist_w1587098795_b1248000_slENG.m3u8
+https://tapmadlive.akamaized.net/tapmadold/sunnews.smil/chunklist_w2128880050_b1248000_slENG.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2001000,PROGRAM-ID=1
+https://tapmadlive.akamaized.net/tapmadold/sunnews.smil/chunklist_w2128880050_b748000_slEng.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2002000,PROGRAM-ID=1
+https://tapmadlive.akamaized.net/tapmadold/sunnews.smil/chunklist_w2128880050_b298000_slENG.m3u8

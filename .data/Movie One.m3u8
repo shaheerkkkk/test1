@@ -2,8 +2,8 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
-https://cdn24lhr.tamashaweb.com:8087/jazzauth/MovieOne-abr/live/vsat-95H/chunks.m3u8?nimblesessionid=64011368
-#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
-https://cdn24lhr.tamashaweb.com:8087/jazzauth/MovieOne-abr/live/vsat-95M/chunks.m3u8?nimblesessionid=64011368
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,PROGRAM-ID=1
-https://cdn24lhr.tamashaweb.com:8087/jazzauth/MovieOne-abr/live/vsat-95L/chunks.m3u8?nimblesessionid=64011368
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/MovieOne-abr/live/vsat-95L/chunks.m3u8?nimblesessionid=64030823
+#EXT-X-STREAM-INF:BANDWIDTH=1001000,PROGRAM-ID=1
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/MovieOne-abr/live/vsat-95H/chunks.m3u8?nimblesessionid=64030823
+#EXT-X-STREAM-INF:BANDWIDTH=1002000,PROGRAM-ID=1
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/MovieOne-abr/live/vsat-95M/chunks.m3u8?nimblesessionid=64030823

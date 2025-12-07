@@ -2,8 +2,8 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
-https://cdn12isb.tamashaweb.com:8087/jazzauth/city21-abr/live/vsat-122H/chunks.m3u8?nimblesessionid=7946850
-#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
-https://cdn12isb.tamashaweb.com:8087/jazzauth/city21-abr/live/vsat-122L/chunks.m3u8?nimblesessionid=7946850
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,PROGRAM-ID=1
-https://cdn12isb.tamashaweb.com:8087/jazzauth/city21-abr/live/vsat-122M/chunks.m3u8?nimblesessionid=7946850
+https://cdn12isb.tamashaweb.com:8087/jazzauth/city21-abr/live/vsat-122H/chunks.m3u8?nimblesessionid=7972196
+#EXT-X-STREAM-INF:BANDWIDTH=1001000,PROGRAM-ID=1
+https://cdn12isb.tamashaweb.com:8087/jazzauth/city21-abr/live/vsat-122M/chunks.m3u8?nimblesessionid=7972196
+#EXT-X-STREAM-INF:BANDWIDTH=1002000,PROGRAM-ID=1
+https://cdn12isb.tamashaweb.com:8087/jazzauth/city21-abr/live/vsat-122L/chunks.m3u8?nimblesessionid=7972196

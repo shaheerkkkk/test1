@@ -2,10 +2,10 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
-https://cdn12isb.tamashaweb.com:8087/jazzauth/RozNews-abr/live/vsat-126M/chunks.m3u8?nimblesessionid=7947016
-#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
-https://cdn12isb.tamashaweb.com:8087/jazzauth/RozNews-abr/live/vsat-126H/chunks.m3u8?nimblesessionid=7947016
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,PROGRAM-ID=1
 https://s5.ideationtec.live/Roze_News/Roze_News.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=4000000,PROGRAM-ID=1
-https://cdn12isb.tamashaweb.com:8087/jazzauth/RozNews-abr/live/vsat-126L/chunks.m3u8?nimblesessionid=7947016
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
+https://cdn12isb.tamashaweb.com:8087/jazzauth/RozNews-abr/live/vsat-126H/chunks.m3u8?nimblesessionid=7972557
+#EXT-X-STREAM-INF:BANDWIDTH=2001000,PROGRAM-ID=1
+https://cdn12isb.tamashaweb.com:8087/jazzauth/RozNews-abr/live/vsat-126M/chunks.m3u8?nimblesessionid=7972557
+#EXT-X-STREAM-INF:BANDWIDTH=2002000,PROGRAM-ID=1
+https://cdn12isb.tamashaweb.com:8087/jazzauth/RozNews-abr/live/vsat-126L/chunks.m3u8?nimblesessionid=7972557

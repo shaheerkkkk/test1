@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
-https://tapmadlive.akamaized.net/tapmadold/atv.smil/chunklist_w370662149_b298000_slENG.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
-https://tapmadlive.akamaized.net/tapmadold/atv.smil/chunklist_w370662149_b748000_slEng.m3u8
+https://tapmadlive.akamaized.net/tapmadold/atv.smil/chunklist_w549716211_b748000_slEng.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1001000,PROGRAM-ID=1
+https://tapmadlive.akamaized.net/tapmadold/atv.smil/chunklist_w549716211_b298000_slENG.m3u8

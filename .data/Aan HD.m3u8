@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/AAN-TV-abr/live/livesoon/chunks.m3u8?nimblesessionid=69223926
-#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
 https://s5.ideationtec.live/AAN_HD/AAN_HD.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/AAN-TV-abr/live/livesoon/chunks.m3u8?nimblesessionid=69252723

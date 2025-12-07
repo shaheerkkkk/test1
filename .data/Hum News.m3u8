@@ -2,8 +2,8 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/humnews-abr/live/vsat-85M/chunks.m3u8?nimblesessionid=74394730
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/humnews-abr/live/vsat-85M/chunks.m3u8?nimblesessionid=74415058
+#EXT-X-STREAM-INF:BANDWIDTH=1001000,PROGRAM-ID=1
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/humnews-abr/live/vsat-85L/chunks.m3u8?nimblesessionid=74415058
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
 https://live.streamly.com.co:8081/pk-humnews/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,PROGRAM-ID=1
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/humnews-abr/live/vsat-85L/chunks.m3u8?nimblesessionid=74394730

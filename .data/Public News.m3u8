@@ -4,8 +4,8 @@
 #EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
 https://s4.ideationtec.live/Public_News_HD/Public_News_HD.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
-https://cdn12isb.tamashaweb.com:8087/jazzauth/PublicTV-abr/live/vsat-120L/chunks.m3u8?nimblesessionid=7947013
+https://cdn12isb.tamashaweb.com:8087/jazzauth/PublicTV-abr/live/vsat-120H/chunks.m3u8?nimblesessionid=7972536
+#EXT-X-STREAM-INF:BANDWIDTH=2001000,PROGRAM-ID=1
+https://cdn12isb.tamashaweb.com:8087/jazzauth/PublicTV-abr/live/vsat-120L/chunks.m3u8?nimblesessionid=7972536
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,PROGRAM-ID=1
-https://cdn12isb.tamashaweb.com:8087/jazzauth/PublicTV-abr/live/vsat-120H/chunks.m3u8?nimblesessionid=7947013
-#EXT-X-STREAM-INF:BANDWIDTH=4000000,PROGRAM-ID=1
 https://live.streamly.com.co:8081/publicnews/index.m3u8
