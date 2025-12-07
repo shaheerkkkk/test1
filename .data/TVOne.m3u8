@@ -1,9 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/TVOne-abr/live/vsat-99H/chunks.m3u8?nimblesessionid=69252991
-#EXT-X-STREAM-INF:BANDWIDTH=1001000,PROGRAM-ID=1
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/TVOne-abr/live/vsat-99M/chunks.m3u8?nimblesessionid=69252991
-#EXT-X-STREAM-INF:BANDWIDTH=1002000,PROGRAM-ID=1
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/TVOne-abr/live/vsat-99L/chunks.m3u8?nimblesessionid=69252991
+#EXT-X-STREAM-INF:BANDWIDTH=1002000,PROGRAM-ID=1,NAME="High Quality",DEFAULT=YES
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/TVOne-abr/live/vsat-99H/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1001000,PROGRAM-ID=1,NAME="Medium Quality"
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/TVOne-abr/live/vsat-99M/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1,NAME="Low Quality"
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/TVOne-abr/live/vsat-99L/chunks.m3u8

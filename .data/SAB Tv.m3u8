@@ -1,11 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
+#EXT-X-STREAM-INF:BANDWIDTH=1003000,PROGRAM-ID=1,NAME="High Quality",DEFAULT=YES
 https://s1.ideationtec.live/SAB_Entertainment/SAB_Entertainment.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
-https://cdn02khi.tamashaweb.com:8087/jazzauth/SabTV-abr/live/vsat-146H/chunks.m3u8?nimblesessionid=48895895
-#EXT-X-STREAM-INF:BANDWIDTH=2001000,PROGRAM-ID=1
-https://cdn02khi.tamashaweb.com:8087/jazzauth/SabTV-abr/live/vsat-146M/chunks.m3u8?nimblesessionid=48895895
-#EXT-X-STREAM-INF:BANDWIDTH=2002000,PROGRAM-ID=1
-https://cdn02khi.tamashaweb.com:8087/jazzauth/SabTV-abr/live/vsat-146L/chunks.m3u8?nimblesessionid=48895895
+#EXT-X-STREAM-INF:BANDWIDTH=1002000,PROGRAM-ID=1,NAME="Medium Quality"
+https://cdn02khi.tamashaweb.com:8087/jazzauth/SabTV-abr/live/vsat-146H/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1001000,PROGRAM-ID=1,NAME="Medium Quality"
+https://cdn02khi.tamashaweb.com:8087/jazzauth/SabTV-abr/live/vsat-146M/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1,NAME="Low Quality"
+https://cdn02khi.tamashaweb.com:8087/jazzauth/SabTV-abr/live/vsat-146L/chunks.m3u8

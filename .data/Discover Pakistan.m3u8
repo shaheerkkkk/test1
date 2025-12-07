@@ -1,21 +1,13 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
+#EXT-X-STREAM-INF:BANDWIDTH=1004000,PROGRAM-ID=1,NAME="High Quality",DEFAULT=YES
 https://s3.ideationtec.live/Discover_Pakistan/Discover_Pakistan.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/DiscoveryPakistan-abr/live/vsat-108H/chunks.m3u8?nimblesessionid=74415045
-#EXT-X-STREAM-INF:BANDWIDTH=2001000,PROGRAM-ID=1
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/DiscoveryPakistan-abr/live/vsat-108M/chunks.m3u8?nimblesessionid=74415045
-#EXT-X-STREAM-INF:BANDWIDTH=2002000,PROGRAM-ID=1
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/DiscoveryPakistan-abr/live/vsat-108L/chunks.m3u8?nimblesessionid=74415045
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,PROGRAM-ID=1
-https://ml-pull-dvc-myco.io:2096/DISCOVER_PAKISTAN/tracks-v1a1/mono.ts.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=3001000,PROGRAM-ID=1
-https://ml-pull-dvc-myco.io:2096/DISCOVER_PAKISTAN/tracks-v2a1/mono.ts.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=3002000,PROGRAM-ID=1
-https://ml-pull-dvc-myco.io:2096/DISCOVER_PAKISTAN/tracks-v3a1/mono.ts.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=3003000,PROGRAM-ID=1
-https://ml-pull-dvc-myco.io:2096/DISCOVER_PAKISTAN/tracks-v4a1/mono.ts.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=3004000,PROGRAM-ID=1
-https://ml-pull-dvc-myco.io:2096/DISCOVER_PAKISTAN/tracks-v5a1/mono.ts.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1003000,PROGRAM-ID=1,NAME="Medium Quality"
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/DiscoveryPakistan-abr/live/vsat-108H/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1002000,PROGRAM-ID=1,NAME="Medium Quality"
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/DiscoveryPakistan-abr/live/vsat-108M/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1001000,PROGRAM-ID=1,NAME="Medium Quality"
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/DiscoveryPakistan-abr/live/vsat-108L/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1,NAME="Low Quality"
+https://ml-pull-dvc-myco.io:2096/DISCOVER_PAKISTAN/index.m3u8

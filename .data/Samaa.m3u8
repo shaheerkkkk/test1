@@ -1,21 +1,21 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/samaaTV-abr/live/vsat-123H/chunks.m3u8?nimblesessionid=74415094
-#EXT-X-STREAM-INF:BANDWIDTH=1001000,PROGRAM-ID=1
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/samaaTV-abr/live/vsat-123M/chunks.m3u8?nimblesessionid=74415094
-#EXT-X-STREAM-INF:BANDWIDTH=1002000,PROGRAM-ID=1
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/samaaTV-abr/live/vsat-123L/chunks.m3u8?nimblesessionid=74415094
-#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
-https://cdn5.mjunoon.tv:8087/web/SAMAA-173/live/173H/chunks.m3u8?nimblesessionid=547033427
-#EXT-X-STREAM-INF:BANDWIDTH=2001000,PROGRAM-ID=1
-https://cdn5.mjunoon.tv:8087/web/SAMAA-173/live/173M/chunks.m3u8?nimblesessionid=547033427
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,PROGRAM-ID=1
+#EXT-X-STREAM-INF:BANDWIDTH=1008000,PROGRAM-ID=1,NAME="High Quality",DEFAULT=YES
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/samaaTV-abr/live/vsat-123H/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1007000,PROGRAM-ID=1,NAME="Medium Quality"
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/samaaTV-abr/live/vsat-123M/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1006000,PROGRAM-ID=1,NAME="Medium Quality"
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/samaaTV-abr/live/vsat-123L/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1005000,PROGRAM-ID=1,NAME="Medium Quality"
+https://cdn5.mjunoon.tv:8087/web/SAMAA-173/live/173H/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1004000,PROGRAM-ID=1,NAME="Medium Quality"
+https://cdn5.mjunoon.tv:8087/web/SAMAA-173/live/173M/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1003000,PROGRAM-ID=1,NAME="Medium Quality"
 https://live.streamly.com.co:8081/sammanews/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=4000000,PROGRAM-ID=1
-https://tapmadlive.akamaized.net/tapmadold/saamanews.smil/chunklist_w119404487_b1248000_slENG.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=4001000,PROGRAM-ID=1
-https://tapmadlive.akamaized.net/tapmadold/saamanews.smil/chunklist_w119404487_b748000_slEng.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=4002000,PROGRAM-ID=1
-https://tapmadlive.akamaized.net/tapmadold/saamanews.smil/chunklist_w119404487_b298000_slENG.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1002000,PROGRAM-ID=1,NAME="Medium Quality"
+https://tapmadlive.akamaized.net/tapmadold/saamanews.smil/chunklist_w1271248871_b1248000_slENG.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1001000,PROGRAM-ID=1,NAME="Medium Quality"
+https://tapmadlive.akamaized.net/tapmadold/saamanews.smil/chunklist_w1271248871_b748000_slEng.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1,NAME="Low Quality"
+https://tapmadlive.akamaized.net/tapmadold/saamanews.smil/chunklist_w1271248871_b298000_slENG.m3u8

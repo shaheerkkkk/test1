@@ -1,13 +1,13 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
+#EXT-X-STREAM-INF:BANDWIDTH=1004000,PROGRAM-ID=1,NAME="High Quality",DEFAULT=YES
 https://s3.ideationtec.live/A_Plus/A_Plus.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
-https://cdn12isb.tamashaweb.com:8087/jazzauth/Aplus-abr/live/livesoon/chunks.m3u8?nimblesessionid=7972056
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,PROGRAM-ID=1
+#EXT-X-STREAM-INF:BANDWIDTH=1003000,PROGRAM-ID=1,NAME="Medium Quality"
+https://cdn12isb.tamashaweb.com:8087/jazzauth/Aplus-abr/live/livesoon/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1002000,PROGRAM-ID=1,NAME="Medium Quality"
 https://live.streamly.com.co:8081/pk-aplus/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=4000000,PROGRAM-ID=1
-https://tapmadlive.akamaized.net/tapmadold/aplus.smil/chunklist_w1399354565_b748000_slEng.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=4001000,PROGRAM-ID=1
-https://tapmadlive.akamaized.net/tapmadold/aplus.smil/chunklist_w1399354565_b298000_slENG.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1001000,PROGRAM-ID=1,NAME="Medium Quality"
+https://tapmadlive.akamaized.net/tapmadold/aplus.smil/chunklist_w575645140_b748000_slEng.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1,NAME="Low Quality"
+https://tapmadlive.akamaized.net/tapmadold/aplus.smil/chunklist_w575645140_b298000_slENG.m3u8

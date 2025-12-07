@@ -1,13 +1,13 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
+#EXT-X-STREAM-INF:BANDWIDTH=1004000,PROGRAM-ID=1,NAME="High Quality",DEFAULT=YES
 https://s5.ideationtec.live/GNN_HD/GNN_HD.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
-https://cdn02khi.tamashaweb.com:8087/jazzauth/GNN-abr/live/vsat-gnn-H/chunks.m3u8?nimblesessionid=48895876
-#EXT-X-STREAM-INF:BANDWIDTH=2001000,PROGRAM-ID=1
-https://cdn02khi.tamashaweb.com:8087/jazzauth/GNN-abr/live/vsat-gnn-M/chunks.m3u8?nimblesessionid=48895876
-#EXT-X-STREAM-INF:BANDWIDTH=2002000,PROGRAM-ID=1
-https://cdn02khi.tamashaweb.com:8087/jazzauth/GNN-abr/live/vsat-gnn-L/chunks.m3u8?nimblesessionid=48895876
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,PROGRAM-ID=1
+#EXT-X-STREAM-INF:BANDWIDTH=1003000,PROGRAM-ID=1,NAME="Medium Quality"
+https://cdn02khi.tamashaweb.com:8087/jazzauth/GNN-abr/live/vsat-gnn-H/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1002000,PROGRAM-ID=1,NAME="Medium Quality"
+https://cdn02khi.tamashaweb.com:8087/jazzauth/GNN-abr/live/vsat-gnn-M/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1001000,PROGRAM-ID=1,NAME="Medium Quality"
+https://cdn02khi.tamashaweb.com:8087/jazzauth/GNN-abr/live/vsat-gnn-L/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1,NAME="Low Quality"
 https://live.streamly.com.co:8081/gnnnews/index.m3u8

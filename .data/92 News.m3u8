@@ -1,11 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
+#EXT-X-STREAM-INF:BANDWIDTH=1003000,PROGRAM-ID=1,NAME="High Quality",DEFAULT=YES
 https://live.streamly.com.co:8081/92news-pk/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
-https://tapmadlive.akamaized.net/tapmadold/92news.smil/chunklist_w1637352081_b1248000_slENG.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2001000,PROGRAM-ID=1
-https://tapmadlive.akamaized.net/tapmadold/92news.smil/chunklist_w1637352081_b748000_slEng.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2002000,PROGRAM-ID=1
-https://tapmadlive.akamaized.net/tapmadold/92news.smil/chunklist_w1637352081_b298000_slENG.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1002000,PROGRAM-ID=1,NAME="Medium Quality"
+https://tapmadlive.akamaized.net/tapmadold/92news.smil/chunklist_w705387903_b1248000_slENG.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1001000,PROGRAM-ID=1,NAME="Medium Quality"
+https://tapmadlive.akamaized.net/tapmadold/92news.smil/chunklist_w705387903_b748000_slEng.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1,NAME="Low Quality"
+https://tapmadlive.akamaized.net/tapmadold/92news.smil/chunklist_w705387903_b298000_slENG.m3u8

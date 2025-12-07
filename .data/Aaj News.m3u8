@@ -1,15 +1,15 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
+#EXT-X-STREAM-INF:BANDWIDTH=1005000,PROGRAM-ID=1,NAME="High Quality",DEFAULT=YES
 https://s4.ideationtec.live/Aaj_News/Aaj_News.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
-https://cdn12isb.tamashaweb.com:8087/jazzauth/AajNews-abr/live/vsat-96H/chunks.m3u8?nimblesessionid=7972074
-#EXT-X-STREAM-INF:BANDWIDTH=2001000,PROGRAM-ID=1
-https://cdn12isb.tamashaweb.com:8087/jazzauth/AajNews-abr/live/vsat-96M/chunks.m3u8?nimblesessionid=7972074
-#EXT-X-STREAM-INF:BANDWIDTH=2002000,PROGRAM-ID=1
-https://cdn12isb.tamashaweb.com:8087/jazzauth/AajNews-abr/live/vsat-96L/chunks.m3u8?nimblesessionid=7972074
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,PROGRAM-ID=1
+#EXT-X-STREAM-INF:BANDWIDTH=1004000,PROGRAM-ID=1,NAME="Medium Quality"
+https://cdn12isb.tamashaweb.com:8087/jazzauth/AajNews-abr/live/vsat-96H/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1003000,PROGRAM-ID=1,NAME="Medium Quality"
+https://cdn12isb.tamashaweb.com:8087/jazzauth/AajNews-abr/live/vsat-96M/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1002000,PROGRAM-ID=1,NAME="Medium Quality"
+https://cdn12isb.tamashaweb.com:8087/jazzauth/AajNews-abr/live/vsat-96L/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1001000,PROGRAM-ID=1,NAME="Medium Quality"
 https://live.streamly.com.co:8081/aajnews/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=4000000,PROGRAM-ID=1
-https://ml-pull-dvc-myco.io:2096/AAJ_NEWS/tracks-v1a1/mono.ts.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1,NAME="Low Quality"
+https://ml-pull-dvc-myco.io:2096/AAJ_NEWS/index.m3u8
