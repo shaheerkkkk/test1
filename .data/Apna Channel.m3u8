@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
+https://cdn02khi.tamashaweb.com:8087/jazzauth/Apna-abr/live/vsat-119H/chunks.m3u8?nimblesessionid=48894637
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
+https://cdn02khi.tamashaweb.com:8087/jazzauth/Apna-abr/live/vsat-119M/chunks.m3u8?nimblesessionid=48894637
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,PROGRAM-ID=1
+https://cdn02khi.tamashaweb.com:8087/jazzauth/Apna-abr/live/vsat-119L/chunks.m3u8?nimblesessionid=48894637

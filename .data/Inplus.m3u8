@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/Inplus-abr/live/vsat-151M/chunks.m3u8?nimblesessionid=69224153
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/Inplus-abr/live/vsat-151L/chunks.m3u8?nimblesessionid=69224153
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,PROGRAM-ID=1
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/Inplus-abr/live/vsat-151H/chunks.m3u8?nimblesessionid=69224153

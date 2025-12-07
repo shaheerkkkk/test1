@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
+https://cdn12isb.tamashaweb.com:8087/jazzauth/BolEntertainment-abr/live/vsat-144H/chunks.m3u8?nimblesessionid=7946829
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
+https://cdn12isb.tamashaweb.com:8087/jazzauth/BolEntertainment-abr/live/vsat-144M/chunks.m3u8?nimblesessionid=7946829
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,PROGRAM-ID=1
+https://cdn12isb.tamashaweb.com:8087/jazzauth/BolEntertainment-abr/live/vsat-144L/chunks.m3u8?nimblesessionid=7946829
+#EXT-X-STREAM-INF:BANDWIDTH=4000000,PROGRAM-ID=1
+https://s2.ideationtec.live/BOL_Entertainment_HD/BOL_Entertainment_HD.m3u8

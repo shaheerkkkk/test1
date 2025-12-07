@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
+https://cdn12isb.tamashaweb.com:8087/jazzauth/RohiTV-abr/live/vsat-114H/chunks.m3u8?nimblesessionid=7947015
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
+https://s2.ideationtec.live/Roohi_TV/Roohi_TV.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,PROGRAM-ID=1
+https://cdn12isb.tamashaweb.com:8087/jazzauth/RohiTV-abr/live/vsat-114M/chunks.m3u8?nimblesessionid=7947015
+#EXT-X-STREAM-INF:BANDWIDTH=4000000,PROGRAM-ID=1
+https://cdn12isb.tamashaweb.com:8087/jazzauth/RohiTV-abr/live/vsat-114L/chunks.m3u8?nimblesessionid=7947015

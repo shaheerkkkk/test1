@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
+https://cdn05khi.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/live/livesoon/chunks.m3u8?nimblesessionid=57661023
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
+https://live.streamly.com.co:8081/pk-greenent/index.m3u8

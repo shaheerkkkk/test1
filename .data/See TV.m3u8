@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
+https://cdn05khi.tamashaweb.com:8087/jazzauth/seeTV-abr/live/vsat-136L/chunks.m3u8?nimblesessionid=57661158
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
+https://cdn05khi.tamashaweb.com:8087/jazzauth/seeTV-abr/live/vsat-136M/chunks.m3u8?nimblesessionid=57661158
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,PROGRAM-ID=1
+https://cdn05khi.tamashaweb.com:8087/jazzauth/seeTV-abr/live/vsat-136H/chunks.m3u8?nimblesessionid=57661158

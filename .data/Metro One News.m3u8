@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
+https://s4.ideationtec.live/Metro_One/Metro_One.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/Metro1News-abr/live/vsat-147L/chunks.m3u8?nimblesessionid=64011366
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,PROGRAM-ID=1
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/Metro1News-abr/live/vsat-147H/chunks.m3u8?nimblesessionid=64011366

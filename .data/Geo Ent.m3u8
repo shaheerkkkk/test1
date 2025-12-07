@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
+https://cdn05khi.tamashaweb.com:8087/jazzauth/GeoEntertainment-abr/live/livesoon/chunks.m3u8?nimblesessionid=57661001
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
+https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8

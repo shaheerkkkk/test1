@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
+https://tapmadlive.akamaized.net/tapmadold/playmax.smil/chunklist_w230474816_b748000_slEng.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
+https://tapmadlive.akamaized.net/tapmadold/playmax.smil/chunklist_w230474816_b298000_slENG.m3u8

@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
+https://s4.ideationtec.live/News_365/News_365.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
+https://tapmadlive.akamaized.net/tapmadold/365news.smil/chunklist_w465903222_b1248000_slENG.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,PROGRAM-ID=1
+https://cdn05khi.tamashaweb.com:8087/jazzauth/365News-abr/live/vsat-abnnews-M/chunks.m3u8?nimblesessionid=57660840
+#EXT-X-STREAM-INF:BANDWIDTH=4000000,PROGRAM-ID=1
+https://tapmadlive.akamaized.net/tapmadold/365news.smil/chunklist_w465903222_b298000_slENG.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,PROGRAM-ID=1
+https://tapmadlive.akamaized.net/tapmadold/365news.smil/chunklist_w465903222_b748000_slEng.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=6000000,PROGRAM-ID=1
+https://cdn05khi.tamashaweb.com:8087/jazzauth/365News-abr/live/vsat-abnnews-L/chunks.m3u8?nimblesessionid=57660840

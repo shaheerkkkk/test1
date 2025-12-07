@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
+https://cdn12isb.tamashaweb.com:8087/jazzauth/hummasala-abr/live/vsat-118L/chunks.m3u8?nimblesessionid=7946937
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
+https://cdn12isb.tamashaweb.com:8087/jazzauth/hummasala-abr/live/vsat-118H/chunks.m3u8?nimblesessionid=7946937
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,PROGRAM-ID=1
+https://cdn12isb.tamashaweb.com:8087/jazzauth/hummasala-abr/live/vsat-118M/chunks.m3u8?nimblesessionid=7946937

@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
+https://s2.ideationtec.live/City_41/City_4116.ts
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
+https://cdn05khi.tamashaweb.com:8087/jazzauth/city41News-abr/live/vsat-121H/chunks.m3u8?nimblesessionid=57660965
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,PROGRAM-ID=1
+https://cdn05khi.tamashaweb.com:8087/jazzauth/city41News-abr/live/vsat-121L/chunks.m3u8?nimblesessionid=57660965
+#EXT-X-STREAM-INF:BANDWIDTH=4000000,PROGRAM-ID=1
+https://cdn05khi.tamashaweb.com:8087/jazzauth/city41News-abr/live/vsat-121M/chunks.m3u8?nimblesessionid=57660965

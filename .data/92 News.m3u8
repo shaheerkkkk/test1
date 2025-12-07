@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1
+https://live.streamly.com.co:8081/92news-pk/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,PROGRAM-ID=1
+https://tapmadlive.akamaized.net/tapmadold/92news.smil/chunklist_w1724922757_b298000_slENG.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,PROGRAM-ID=1
+https://tapmadlive.akamaized.net/tapmadold/92news.smil/chunklist_w1724922757_b1248000_slENG.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4000000,PROGRAM-ID=1
+https://tapmadlive.akamaized.net/tapmadold/92news.smil/chunklist_w1724922757_b748000_slEng.m3u8
