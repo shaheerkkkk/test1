@@ -1,13 +1,13 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXT-X-STREAM-INF:BANDWIDTH=1004000,PROGRAM-ID=1,NAME="High Quality",DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1040000,RESOLUTION=1920x1080,NAME="Stream 1"
 https://s2.ideationtec.live/City_41/City_4116.ts
-#EXT-X-STREAM-INF:BANDWIDTH=1003000,PROGRAM-ID=1,NAME="Medium Quality"
+#EXT-X-STREAM-INF:BANDWIDTH=1030000,RESOLUTION=1280x720,NAME="Stream 2"
 https://cdn05khi.tamashaweb.com:8087/jazzauth/city41News-abr/live/vsat-121H/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1002000,PROGRAM-ID=1,NAME="Medium Quality"
+#EXT-X-STREAM-INF:BANDWIDTH=1020000,RESOLUTION=854x480,NAME="Stream 3"
 https://cdn05khi.tamashaweb.com:8087/jazzauth/city41News-abr/live/vsat-121M/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1001000,PROGRAM-ID=1,NAME="Medium Quality"
+#EXT-X-STREAM-INF:BANDWIDTH=1010000,RESOLUTION=640x360,NAME="Stream 4"
 https://cdn05khi.tamashaweb.com:8087/jazzauth/city41News-abr/live/vsat-121L/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1,NAME="Low Quality"
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=426x240,NAME="Stream 5"
 https://nayatvfe5.nayatel.com:3030/live2/channel198sd.stream/chunks.m3u8

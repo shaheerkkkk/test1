@@ -1,17 +1,17 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXT-X-STREAM-INF:BANDWIDTH=1006000,PROGRAM-ID=1,NAME="High Quality",DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1060000,RESOLUTION=1920x1080,NAME="Stream 1"
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/Suno_News-abr/live/vsat-89H/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1005000,PROGRAM-ID=1,NAME="Medium Quality"
+#EXT-X-STREAM-INF:BANDWIDTH=1050000,RESOLUTION=1280x720,NAME="Stream 2"
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/Suno_News-abr/live/vsat-89M/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1004000,PROGRAM-ID=1,NAME="Medium Quality"
+#EXT-X-STREAM-INF:BANDWIDTH=1040000,RESOLUTION=854x480,NAME="Stream 3"
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/Suno_News-abr/live/vsat-89L/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1003000,PROGRAM-ID=1,NAME="Medium Quality"
+#EXT-X-STREAM-INF:BANDWIDTH=1030000,RESOLUTION=640x360,NAME="Stream 4"
 https://nayatvfe7.nayatel.com:3030/live2/channel107hd.stream/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1002000,PROGRAM-ID=1,NAME="Medium Quality"
-https://tapmadlive.akamaized.net/tapmadold/sunnews.smil/chunklist_w232288864_b1248000_slENG.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1001000,PROGRAM-ID=1,NAME="Medium Quality"
-https://tapmadlive.akamaized.net/tapmadold/sunnews.smil/chunklist_w232288864_b748000_slEng.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1,NAME="Low Quality"
-https://tapmadlive.akamaized.net/tapmadold/sunnews.smil/chunklist_w232288864_b298000_slENG.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1020000,RESOLUTION=426x240,NAME="Stream 5"
+https://tapmadlive.akamaized.net/tapmadold/sunnews.smil/chunklist_w73763453_b1248000_slENG.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1010000,RESOLUTION=320x180,NAME="Stream 6"
+https://tapmadlive.akamaized.net/tapmadold/sunnews.smil/chunklist_w73763453_b748000_slEng.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=320x180,NAME="Stream 7"
+https://tapmadlive.akamaized.net/tapmadold/sunnews.smil/chunklist_w73763453_b298000_slENG.m3u8

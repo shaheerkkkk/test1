@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1,NAME="High Quality",DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=1920x1080,NAME="Stream 1"
 https://ptvstream1.nayatel.com:8096/transcoder/ptvglobaltrc_source/chunks.m3u8

@@ -1,9 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXT-X-STREAM-INF:BANDWIDTH=1002000,PROGRAM-ID=1,NAME="High Quality",DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1020000,RESOLUTION=1920x1080,NAME="Stream 1"
 https://s3.ideationtec.live/Express_Entertainment/Express_Entertainment.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1001000,PROGRAM-ID=1,NAME="Medium Quality"
+#EXT-X-STREAM-INF:BANDWIDTH=1010000,RESOLUTION=1280x720,NAME="Stream 2"
 https://cdn12isb.tamashaweb.com:8087/jazzauth/ExpressEntertainment-abr/live/livesoon/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,PROGRAM-ID=1,NAME="Low Quality"
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=854x480,NAME="Stream 3"
 https://nayatvfe5.nayatel.com:3030/live4/channel43sd.stream/chunks.m3u8
