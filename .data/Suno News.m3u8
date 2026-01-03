@@ -1,5 +1,18 @@
 #EXTM3U
 #EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
 
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=1280x720,NAME="Stream 1"
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 1"
 https://nayatvfe7.nayatel.com:3030/live2/channel107hd.stream/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 2"
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/Suno_News-abr/live/vsat-89H/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 3"
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/Suno_News-abr/live/vsat-89M/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 4"
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/Suno_News-abr/live/vsat-89L/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 5"
+https://tapmadlive.akamaized.net/tapmadold/sunnews.smil/chunklist_w745316076_b298000_slENG.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 6"
+https://tapmadlive.akamaized.net/tapmadold/sunnews.smil/chunklist_w745316076_b748000_slEng.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 7"
+https://tapmadlive.akamaized.net/tapmadold/sunnews.smil/chunklist_w745316076_b1248000_slENG.m3u8

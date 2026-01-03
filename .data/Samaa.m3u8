@@ -1,21 +1,22 @@
 #EXTM3U
 #EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
 
-#EXT-X-STREAM-INF:BANDWIDTH=1080000,RESOLUTION=1280x720,NAME="Stream 1"
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 1"
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/samaaTV-abr/live/vsat-123H/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1070000,RESOLUTION=640x360,NAME="Stream 2"
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 2"
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/samaaTV-abr/live/vsat-123M/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1060000,RESOLUTION=480x270,NAME="Stream 3"
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 3"
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/samaaTV-abr/live/vsat-123L/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1050000,RESOLUTION=1280x720,NAME="Stream 4"
-https://cdn5.mjunoon.tv:8087/web/SAMAA-173/live/173H/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1040000,RESOLUTION=640x360,NAME="Stream 5"
-https://cdn5.mjunoon.tv:8087/web/SAMAA-173/live/173M/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1030000,RESOLUTION=1280x720,NAME="Stream 6"
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 4"
 https://nayatvfe4.nayatel.com:3030/live2/channel04sd.stream/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1020000,RESOLUTION=1280x720,NAME="Stream 7"
-https://tapmadlive.akamaized.net/tapmadold/saamanews.smil/chunklist_w1660756198_b1248000_slENG.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1010000,RESOLUTION=720x404,NAME="Stream 8"
-https://tapmadlive.akamaized.net/tapmadold/saamanews.smil/chunklist_w1660756198_b748000_slEng.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=480x270,NAME="Stream 9"
-https://tapmadlive.akamaized.net/tapmadold/saamanews.smil/chunklist_w1660756198_b298000_slENG.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 5"
+https://tapmadlive.akamaized.net/tapmadold/saamanews.smil/chunklist_w1703020628_b298000_slENG.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 6"
+https://tapmadlive.akamaized.net/tapmadold/saamanews.smil/chunklist_w1703020628_b748000_slEng.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 7"
+https://tapmadlive.akamaized.net/tapmadold/saamanews.smil/chunklist_w1703020628_b1248000_slENG.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 8"
+https://cdn5.mjunoon.tv:8087/web/SAMAA-173/live/173H/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 9"
+https://cdn5.mjunoon.tv:8087/web/SAMAA-173/live/173M/chunks.m3u8
