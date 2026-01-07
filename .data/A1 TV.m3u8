@@ -1,9 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
-
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 1"
-https://nayatvfe5.nayatel.com:3030/live4/channel83sd.stream/chunks.m3u8
+https://s1.ideationtec.live/A1_Entertainment/A1_Entertainment.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 2"
 https://cdn12isb.tamashaweb.com:8087/jazzauth/A1TV-abr/live/vsat-124H/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 3"
@@ -11,4 +10,4 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/A1TV-abr/live/vsat-124M/chunks.m3u
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 4"
 https://cdn12isb.tamashaweb.com:8087/jazzauth/A1TV-abr/live/vsat-124L/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 5"
-https://s1.ideationtec.live/A1_Entertainment/A1_Entertainment.m3u8
+https://nayatvfe5.nayatel.com:3030/live4/channel83sd.stream/chunks.m3u8

@@ -1,24 +1,23 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
-
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 1"
 https://s2.ideationtec.live/AAJ_Entertainment/AAJ_Entertainment.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 2"
-https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/tracks-v5a1/mono.ts.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 3"
-https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/tracks-v4a1/mono.ts.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 4"
-https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/tracks-v3a1/mono.ts.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 5"
-https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/tracks-v2a1/mono.ts.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 6"
-https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 7"
-https://nayatvfe4.nayatel.com:3030/live4/channel80sd.stream/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 8"
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/AajEntertainment-abr/live/vsat-117H/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 9"
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 3"
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/AajEntertainment-abr/live/vsat-117L/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 10"
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 4"
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/AajEntertainment-abr/live/vsat-117M/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 5"
+https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/tracks-v5a1/mono.ts.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 6"
+https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/tracks-v4a1/mono.ts.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 7"
+https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/tracks-v3a1/mono.ts.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 8"
+https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/tracks-v2a1/mono.ts.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 9"
+https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 10"
+https://nayatvfe4.nayatel.com:3030/live4/channel80sd.stream/chunks.m3u8

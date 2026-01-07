@@ -1,18 +1,17 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
-
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 1"
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/ABNnews-abr/live/vsat-aurlife-H/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 2"
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/ABNnews-abr/live/vsat-aurlife-M/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 3"
-https://tapmadlive.akamaized.net/tapmadold/ABNnews.smil/chunklist_w339681393_b298000_slENG.m3u8
+https://tapmadlive.akamaized.net/tapmadold/ABNnews.smil/chunklist_w1879247438_b298000_slENG.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 4"
-https://tapmadlive.akamaized.net/tapmadold/ABNnews.smil/chunklist_w339681393_b748000_slEng.m3u8
+https://tapmadlive.akamaized.net/tapmadold/ABNnews.smil/chunklist_w1879247438_b748000_slEng.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 5"
-https://tapmadlive.akamaized.net/tapmadold/ABNnews.smil/chunklist_w339681393_b1248000_slENG.m3u8
+https://tapmadlive.akamaized.net/tapmadold/ABNnews.smil/chunklist_w1879247438_b1248000_slENG.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 6"
-https://nayatvfe3.nayatel.com:3030/live2/channel140hd.stream/chunks.m3u8
+https://video.abnnews.pk/abn/live/chunklist_w1911025654.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 7"
-https://video.abnnews.pk/abn/live/chunklist_w350092847.m3u8
+https://nayatvfe3.nayatel.com:3030/live2/channel140hd.stream/chunks.m3u8
