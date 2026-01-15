@@ -4,10 +4,10 @@
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 1"
 https://s4.ideationtec.live/GTV_News_HD/GTV_News_HD.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 2"
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/GTVNews-abr/live/vsat-129H/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 3"
 https://cdn21lhr.tamashaweb.com:8087/jazzauth/GTVNews-abr/live/vsat-129M/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 4"
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 3"
 https://cdn21lhr.tamashaweb.com:8087/jazzauth/GTVNews-abr/live/vsat-129L/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 4"
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/GTVNews-abr/live/vsat-129H/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 5"
 https://nayatvfe5.nayatel.com:3030/live2/channel87hd.stream/chunks.m3u8

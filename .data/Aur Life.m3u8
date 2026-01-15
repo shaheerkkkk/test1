@@ -4,6 +4,8 @@
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 1"
 https://s3.ideationtec.live/Aur_Life/Aur_Life.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 2"
-https://cdn12isb.tamashaweb.com:8087/jazzauth/AurLife-abr/live/livesoon/chunks.m3u8
+https://cdn12isb.tamashaweb.com:8087/jazzauth/AurLife-abr/live/vsat-365TV-L/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 3"
+https://cdn12isb.tamashaweb.com:8087/jazzauth/AurLife-abr/live/vsat-365TV-M/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 4"
 https://nayatvfe4.nayatel.com:3030/live4/channel130hd.stream/chunks.m3u8

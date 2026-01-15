@@ -4,10 +4,8 @@
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 1"
 https://s1.ideationtec.live/SET_Ent/SET_Ent.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 2"
-https://cdn12isb.tamashaweb.com:8087/jazzauth/SetEntertainment-abr/live/vsat-setent-H/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 3"
-https://cdn12isb.tamashaweb.com:8087/jazzauth/SetEntertainment-abr/live/vsat-setent-M/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 4"
 https://cdn12isb.tamashaweb.com:8087/jazzauth/SetEntertainment-abr/live/vsat-setent-L/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 5"
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 3"
+https://cdn12isb.tamashaweb.com:8087/jazzauth/SetEntertainment-abr/live/vsat-setent-H/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 4"
 https://nayatvfe5.nayatel.com:3030/live4/channel188hd.stream/chunks.m3u8

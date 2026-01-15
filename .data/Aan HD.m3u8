@@ -4,10 +4,8 @@
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 1"
 https://s5.ideationtec.live/AAN_HD/AAN_HD.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 2"
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/AAN-TV-abr/live/vsat-aantv-H/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 3"
 https://cdn21lhr.tamashaweb.com:8087/jazzauth/AAN-TV-abr/live/vsat-aantv-M/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 4"
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 3"
 https://cdn21lhr.tamashaweb.com:8087/jazzauth/AAN-TV-abr/live/vsat-aantv-L/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 5"
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 4"
 https://nayatvfe4.nayatel.com:3030/live3/channel108hd.stream/chunks.m3u8
