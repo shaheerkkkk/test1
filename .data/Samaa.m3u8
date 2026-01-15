@@ -2,18 +2,20 @@
 #EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 1"
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/samaaTV-abr/live/vsat-123M/chunks.m3u8
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/samaaTV-abr/live/vsat-123H/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 2"
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/samaaTV-abr/live/vsat-123L/chunks.m3u8
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/samaaTV-abr/live/vsat-123M/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 3"
-https://cdn5.mjunoon.tv:8087/web/SAMAA-173/live/173H/chunks.m3u8
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/samaaTV-abr/live/vsat-123L/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 4"
-https://cdn5.mjunoon.tv:8087/web/SAMAA-173/live/173M/chunks.m3u8
+https://cdn5.mjunoon.tv:8087/web/SAMAA-173/live/173H/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 5"
-https://tapmadlive.akamaized.net/tapmadold/saamanews.smil/chunklist_w2073914171_b298000_slENG.m3u8
+https://cdn5.mjunoon.tv:8087/web/SAMAA-173/live/173M/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 6"
-https://tapmadlive.akamaized.net/tapmadold/saamanews.smil/chunklist_w2073914171_b748000_slEng.m3u8
+https://tapmadlive.akamaized.net/tapmadold/saamanews.smil/chunklist_w1027202453_b298000_slENG.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 7"
-https://tapmadlive.akamaized.net/tapmadold/saamanews.smil/chunklist_w2073914171_b1248000_slENG.m3u8
+https://tapmadlive.akamaized.net/tapmadold/saamanews.smil/chunklist_w1027202453_b748000_slEng.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 8"
+https://tapmadlive.akamaized.net/tapmadold/saamanews.smil/chunklist_w1027202453_b1248000_slENG.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 9"
 https://nayatvfe4.nayatel.com:3030/live2/channel04sd.stream/chunks.m3u8

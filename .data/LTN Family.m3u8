@@ -4,10 +4,10 @@
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 1"
 https://s3.ideationtec.live/LTN_Family_HD/LTN_Family_HD.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 2"
-https://cdn24lhr.tamashaweb.com:8087/jazzauth/LTNFamily-abr/live/vsat-ltntv-M/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 3"
-https://cdn24lhr.tamashaweb.com:8087/jazzauth/LTNFamily-abr/live/vsat-ltntv-L/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 4"
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/LTNFamily-abr/live/vsat-ltntv-H/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 3"
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/LTNFamily-abr/live/vsat-ltntv-M/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 4"
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/LTNFamily-abr/live/vsat-ltntv-L/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 5"
 https://nayatvfe2.nayatel.com:3030/live4/channel131hd.stream/chunks.m3u8

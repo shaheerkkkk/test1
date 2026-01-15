@@ -7,3 +7,7 @@ https://cdn24lhr.tamashaweb.com:8087/jazzauth/MovieOne-abr/live/vsat-95L/chunks.
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/MovieOne-abr/live/vsat-95H/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 3"
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/MovieOne-abr/live/vsat-95M/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 4"
+https://cdn5.mjunoon.tv:8087/web/movie-one-176/live/176H/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 5"
+https://cdn5.mjunoon.tv:8087/web/movie-one-176/live/176M/chunks.m3u8

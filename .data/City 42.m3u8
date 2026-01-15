@@ -8,8 +8,8 @@ https://cdn05khi.tamashaweb.com:8087/jazzauth/city42(vnw)-abr/live/144L/chunks.m
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 3"
 https://cdn05khi.tamashaweb.com:8087/jazzauth/city42(vnw)-abr/live/144M/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 4"
-https://tapmadlive.akamaized.net/tapmadold/city42.smil/chunklist_w518815221_b298000_slENG.m3u8
+https://tapmadlive.akamaized.net/tapmadold/city42.smil/chunklist_w605503662_b298000_slENG.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 5"
-https://tapmadlive.akamaized.net/tapmadold/city42.smil/chunklist_w518815221_b748000_slEng.m3u8
+https://tapmadlive.akamaized.net/tapmadold/city42.smil/chunklist_w605503662_b748000_slEng.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 6"
 https://nayatvfe7.nayatel.com:3030/live2/channel105hd.stream/chunks.m3u8

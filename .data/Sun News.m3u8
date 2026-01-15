@@ -2,8 +2,8 @@
 #EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 1"
-https://tapmadlive.akamaized.net/tapmadold/sunnews.smil/chunklist_w1795362895_b298000_slENG.m3u8
+https://tapmadlive.akamaized.net/tapmadold/sunnews.smil/chunklist_w763761079_b298000_slENG.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 2"
-https://tapmadlive.akamaized.net/tapmadold/sunnews.smil/chunklist_w1795362895_b748000_slEng.m3u8
+https://tapmadlive.akamaized.net/tapmadold/sunnews.smil/chunklist_w763761079_b748000_slEng.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 3"
-https://tapmadlive.akamaized.net/tapmadold/sunnews.smil/chunklist_w1795362895_b1248000_slENG.m3u8
+https://tapmadlive.akamaized.net/tapmadold/sunnews.smil/chunklist_w763761079_b1248000_slENG.m3u8

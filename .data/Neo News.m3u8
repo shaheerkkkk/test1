@@ -8,8 +8,12 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/NeoNews-abr/live/110M/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 3"
 https://cdn12isb.tamashaweb.com:8087/jazzauth/NeoNews-abr/live/110L/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 4"
-https://tapmadlive.akamaized.net/tapmadold/neo.smil/chunklist_w799260002_b298000_slENG.m3u8
+https://cdn5.mjunoon.tv:8087/web/Neo-110/live/110M/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 5"
-https://tapmadlive.akamaized.net/tapmadold/neo.smil/chunklist_w799260002_b748000_slEng.m3u8
+https://cdn5.mjunoon.tv:8087/web/Neo-110/live/110L/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 6"
+https://tapmadlive.akamaized.net/tapmadold/neo.smil/chunklist_w294588457_b298000_slENG.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 7"
+https://tapmadlive.akamaized.net/tapmadold/neo.smil/chunklist_w294588457_b748000_slEng.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 8"
 https://nayatvfe4.nayatel.com:3030/live2/channel62hd.stream/chunks.m3u8
