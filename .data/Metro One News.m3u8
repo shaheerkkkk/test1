@@ -4,8 +4,10 @@
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 1"
 https://s4.ideationtec.live/Metro_One/Metro_One.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 2"
-https://cdn24lhr.tamashaweb.com:8087/jazzauth/Metro1News-abr/live/vsat-147H/chunks.m3u8
+https://cdn05khi.tamashaweb.com:8087/jazzauth/Metro1News-abr/live/vsat-147H/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 3"
-https://cdn24lhr.tamashaweb.com:8087/jazzauth/Metro1News-abr/live/vsat-147L/chunks.m3u8
+https://cdn05khi.tamashaweb.com:8087/jazzauth/Metro1News-abr/live/vsat-147M/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 4"
+https://cdn05khi.tamashaweb.com:8087/jazzauth/Metro1News-abr/live/vsat-147L/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Source 5"
 https://nayatvfe3.nayatel.com:3030/live4/channel181sd.stream/chunks.m3u8
