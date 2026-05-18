@@ -4,14 +4,16 @@
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha High"
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/Suno_News-abr/live/vsat-89H/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tapmad High"
-https://tapmadlive.akamaized.net/tapmadold/sunnews.smil/chunklist_w2143121775_b1248000_slENG.m3u8
+https://tapmadlive.akamaized.net/tapmadold/sunnews.smil/chunklist_w752561633_b1248000_slENG.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha Med"
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/Suno_News-abr/live/vsat-89M/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tapmad Med"
-https://tapmadlive.akamaized.net/tapmadold/sunnews.smil/chunklist_w2143121775_b748000_slEng.m3u8
+https://tapmadlive.akamaized.net/tapmadold/sunnews.smil/chunklist_w752561633_b748000_slEng.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha Low"
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/Suno_News-abr/live/vsat-89L/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tapmad Low"
-https://tapmadlive.akamaized.net/tapmadold/sunnews.smil/chunklist_w2143121775_b298000_slENG.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Nayatel SD"
-https://nayatvfe7.nayatel.com:3030/live2/channel107hd.stream/chunks.m3u8
+https://tapmadlive.akamaized.net/tapmadold/sunnews.smil/chunklist_w752561633_b298000_slENG.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"
+https://edge1isb.transworld-home.com/Suno-TV/tracks-v2a1/mono.ts.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"
+https://edge1isb.transworld-home.com/Suno-TV/tracks-v1a1/mono.ts.m3u8

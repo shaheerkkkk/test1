@@ -1,5 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"
+https://edge2isb.transworld-home.com/A-Sports/tracks-v2a1/rewind-86400.ts.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"
+https://edge2isb.transworld-home.com/A-Sports/tracks-v1a1/rewind-86400.ts.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Nayatel SD"
 https://nayatvfe1.nayatel.com:3030/live4/channel18hd.stream/chunks.m3u8

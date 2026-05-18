@@ -7,5 +7,9 @@ https://cdn05khi.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/live/vsat-
 https://cdn05khi.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/live/vsat-green-M/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha Low"
 https://cdn05khi.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/live/vsat-green-L/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"
+https://edge1isb.transworld-home.com/Green-Ent/tracks-v2a1/rewind-86400.ts.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"
+https://edge1isb.transworld-home.com/Green-Ent/tracks-v1a1/rewind-86400.ts.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Nayatel SD"
 https://nayatvfe1.nayatel.com:3030/live4/channel150hd.stream/chunks.m3u8

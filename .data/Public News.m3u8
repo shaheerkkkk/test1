@@ -7,3 +7,7 @@ https://s4.ideationtec.live/Public_News_HD/Public_News_HD.m3u8
 https://cdn12isb.tamashaweb.com:8087/jazzauth/PublicTV-abr/live/vsat-120H/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha Low"
 https://cdn12isb.tamashaweb.com:8087/jazzauth/PublicTV-abr/live/vsat-120L/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"
+https://edge2isb.transworld-home.com/Public-News/tracks-v2a1/mono.ts.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"
+https://edge2isb.transworld-home.com/Public-News/tracks-v1a1/mono.ts.m3u8

@@ -3,13 +3,21 @@
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Ideation HD+"
 https://s4.ideationtec.live/News_365/News_365.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha High"
+https://cdn05khi.tamashaweb.com:8087/jazzauth/365News-abr/live/vsat-abnnews-H/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tapmad High"
-https://tapmadlive.akamaized.net/tapmadold/365news.smil/chunklist_w1936970208_b1248000_slENG.m3u8
+https://tapmadlive.akamaized.net/tapmadold/365news.smil/chunklist_w1551600115_b1248000_slENG.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha Med"
+https://cdn05khi.tamashaweb.com:8087/jazzauth/365News-abr/live/vsat-abnnews-M/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tapmad Med"
-https://tapmadlive.akamaized.net/tapmadold/365news.smil/chunklist_w1936970208_b748000_slEng.m3u8
+https://tapmadlive.akamaized.net/tapmadold/365news.smil/chunklist_w1551600115_b748000_slEng.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha Low"
 https://cdn05khi.tamashaweb.com:8087/jazzauth/365News-abr/live/vsat-abnnews-L/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tapmad Low"
-https://tapmadlive.akamaized.net/tapmadold/365news.smil/chunklist_w1936970208_b298000_slENG.m3u8
+https://tapmadlive.akamaized.net/tapmadold/365news.smil/chunklist_w1551600115_b298000_slENG.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"
+https://edge1isb.transworld-home.com/365-News/tracks-v2a1/rewind-86400.ts.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"
+https://edge1isb.transworld-home.com/365-News/tracks-v1a1/rewind-86400.ts.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Nayatel SD"
 https://nayatvfe5.nayatel.com:3030/live2/channel30hd.stream/chunks.m3u8
