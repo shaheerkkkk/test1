@@ -1,15 +1,15 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Transworld High"
+https://edge1isb.transworld-home.com/lb0/Dunya/tracks-v1a1/mono.ts.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Transworld Med"
+https://edge1isb.transworld-home.com/lb0/Dunya/tracks-v2a1/mono.ts.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"
-https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/chunklist_w1819732728_b950272.m3u8
+https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/chunklist_w102519173_b950272.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"
-https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/chunklist_w1819732728_b496072.m3u8
+https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/chunklist_w102519173_b496072.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"
-https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/chunklist_w1819732728_b236072.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"
-https://edge1isb.transworld-home.com/Dunya/tracks-v2a1/rewind-86400.ts.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"
-https://edge1isb.transworld-home.com/Dunya/tracks-v1a1/rewind-86400.ts.m3u8
+https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/chunklist_w102519173_b236072.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Nayatel SD"
 https://nayatvfe5.nayatel.com:3030/live2/channel05hd.stream/chunks.m3u8

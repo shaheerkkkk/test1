@@ -3,19 +3,21 @@
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Ideation HD+"
 https://s4.ideationtec.live/Channel_24_HD/Channel_24_HD.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Transworld High"
+https://edge1isb.transworld-home.com/lb0/Channel-24/tracks-v1a1/mono.ts.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha High"
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/24News-abr/live/vsat-92H/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tapmad High"
-https://tapmadlive.akamaized.net/tapmadold/channel24.smil/chunklist_w702302721_b1248000_slEng.m3u8
+https://tapmadlive.akamaized.net/tapmadold/channel24.smil/chunklist_w1404946592_b1248000_slEng.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Transworld Med"
+https://edge1isb.transworld-home.com/lb0/Channel-24/tracks-v2a1/mono.ts.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha Med"
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/24News-abr/live/vsat-92M/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tapmad Med"
-https://tapmadlive.akamaized.net/tapmadold/channel24.smil/chunklist_w702302721_b748000_slEng.m3u8
+https://tapmadlive.akamaized.net/tapmadold/channel24.smil/chunklist_w1404946592_b748000_slEng.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha Low"
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/24News-abr/live/vsat-92L/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tapmad Low"
-https://tapmadlive.akamaized.net/tapmadold/channel24.smil/chunklist_w702302721_b298000_slENG.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"
-https://edge1isb.transworld-home.com/Channel-24/tracks-v2a1/mono.ts.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"
-https://edge1isb.transworld-home.com/Channel-24/tracks-v1a1/mono.ts.m3u8
+https://tapmadlive.akamaized.net/tapmadold/channel24.smil/chunklist_w1404946592_b298000_slENG.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Nayatel SD"
+https://nayatvfe3.nayatel.com:3030/live4/channel101hd.stream/chunks.m3u8

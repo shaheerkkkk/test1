@@ -1,15 +1,15 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Transworld High"
+https://edge1isb.transworld-home.com/lb0/92-News/tracks-v1a1/mono.ts.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tapmad High"
-https://tapmadlive.akamaized.net/tapmadold/92news.smil/chunklist_w2027562582_b1248000_slENG.m3u8
+https://tapmadlive.akamaized.net/tapmadold/92news.smil/chunklist_w1638728639_b1248000_slENG.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Transworld Med"
+https://edge1isb.transworld-home.com/lb0/92-News/tracks-v2a1/mono.ts.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tapmad Med"
-https://tapmadlive.akamaized.net/tapmadold/92news.smil/chunklist_w2027562582_b748000_slEng.m3u8
+https://tapmadlive.akamaized.net/tapmadold/92news.smil/chunklist_w1638728639_b748000_slEng.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tapmad Low"
-https://tapmadlive.akamaized.net/tapmadold/92news.smil/chunklist_w2027562582_b298000_slENG.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"
-https://edge1isb.transworld-home.com/92-News/tracks-v2a1/rewind-86400.ts.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"
-https://edge1isb.transworld-home.com/92-News/tracks-v1a1/rewind-86400.ts.m3u8
+https://tapmadlive.akamaized.net/tapmadold/92news.smil/chunklist_w1638728639_b298000_slENG.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Nayatel SD"
 https://nayatvfe4.nayatel.com:3030/live2/channel08hd.stream/chunks.m3u8

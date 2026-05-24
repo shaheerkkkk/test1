@@ -1,11 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Transworld High"
+https://edge1isb.transworld-home.com/lb0/ARYNews/tracks-v1a1/mono.ts.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Transworld Med"
+https://edge1isb.transworld-home.com/lb0/ARYNews/tracks-v2a1/mono.ts.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha Med"
 https://cdn07isb.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/83M/chunks_dvr_timeshift-0-3600.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"
-https://edge1isb.transworld-home.com/ARYNews/tracks-v2a1/rewind-86400.ts.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"
-https://edge1isb.transworld-home.com/ARYNews/tracks-v1a1/rewind-86400.ts.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Nayatel SD"
 https://nayatvfe3.nayatel.com:3030/live4/channel162sd.stream/chunks.m3u8

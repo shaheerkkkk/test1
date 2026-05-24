@@ -5,7 +5,3 @@
 https://s1.ideationtec.live/SET_Ent/SET_Ent.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha SD"
 https://cdn12isb.tamashaweb.com:8087/jazzauth/SetEntertainment-abr/live/Livesoon/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"
-https://edge1isb.transworld-home.com/SET-Entertainment/tracks-v2a1/mono.ts.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"
-https://edge1isb.transworld-home.com/SET-Entertainment/tracks-v1a1/mono.ts.m3u8
