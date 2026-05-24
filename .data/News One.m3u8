@@ -9,8 +9,6 @@ https://cdn02khi.tamashaweb.com:8087/jazzauth/NewsOne-abr/live/128H/chunks.m3u8
 https://edge1isb.transworld-home.com/lb0/News-One/tracks-v2a1/mono.ts.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha Med"
 https://cdn02khi.tamashaweb.com:8087/jazzauth/NewsOne-abr/live/128M/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha Low"
-https://cdn02khi.tamashaweb.com:8087/jazzauth/NewsOne-abr/live/128L/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"
 https://cdn5.mjunoon.tv:8087/web/NEWS1-128/live/128H/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"

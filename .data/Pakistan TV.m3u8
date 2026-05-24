@@ -7,7 +7,5 @@ https://edge1isb.transworld-home.com/lb0/PTV-World/tracks-v1a1/mono.ts.m3u8
 https://cdn05khi.tamashaweb.com:8087/jazzauth/PTVWorld-abr/live/192H/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Transworld Med"
 https://edge1isb.transworld-home.com/lb0/PTV-World/tracks-v2a1/mono.ts.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha Med"
-https://cdn05khi.tamashaweb.com:8087/jazzauth/PTVWorld-abr/live/192M/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Nayatel SD"
 https://nayatvfe3.nayatel.com:3030/live4/channel69sd.stream/chunks.m3u8
