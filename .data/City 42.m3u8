@@ -5,15 +5,13 @@
 https://s2.ideationtec.live/City_42/City_42.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Transworld High"
 https://edge1isb.transworld-home.com/lb0/City-42/tracks-v1a1/mono.ts.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha High"
+https://cdn05khi.tamashaweb.com:8087/jazzauth/city42(vnw)-abr/live/vsat-111H/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Transworld Med"
 https://edge1isb.transworld-home.com/lb0/City-42/tracks-v2a1/mono.ts.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha Med"
-https://cdn05khi.tamashaweb.com:8087/jazzauth/city42(vnw)-abr/live/144M/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tapmad Med"
-https://tapmadlive.akamaized.net/tapmadold/city42.smil/chunklist_w1571997651_b748000_slEng.m3u8
+https://cdn05khi.tamashaweb.com:8087/jazzauth/city42(vnw)-abr/live/vsat-111M/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha Low"
-https://cdn05khi.tamashaweb.com:8087/jazzauth/city42(vnw)-abr/live/144L/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tapmad Low"
-https://tapmadlive.akamaized.net/tapmadold/city42.smil/chunklist_w1571997651_b298000_slENG.m3u8
+https://cdn05khi.tamashaweb.com:8087/jazzauth/city42(vnw)-abr/live/vsat-111L/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Nayatel SD"
 https://nayatvfe3.nayatel.com:3030/live4/channel105hd.stream/chunks.m3u8

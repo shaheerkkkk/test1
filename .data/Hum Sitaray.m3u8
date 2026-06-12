@@ -4,12 +4,12 @@
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Transworld High"
 https://edge1isb.transworld-home.com/lb0/HUM-Sitarey/tracks-v1a1/mono.ts.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha High"
-https://cdn12isb.tamashaweb.com:8087/jazzauth/HumSitaray-abr/live/157-4H/chunks.m3u8
+https://cdn12isb.tamashaweb.com:8087/jazzauth/HumSitaray-abr/live/vsat-107H/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Transworld Med"
 https://edge1isb.transworld-home.com/lb0/HUM-Sitarey/tracks-v2a1/mono.ts.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha Med"
-https://cdn12isb.tamashaweb.com:8087/jazzauth/HumSitaray-abr/live/157-4M/chunks.m3u8
+https://cdn12isb.tamashaweb.com:8087/jazzauth/HumSitaray-abr/live/vsat-107M/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha Low"
-https://cdn12isb.tamashaweb.com:8087/jazzauth/HumSitaray-abr/live/157-4L/chunks.m3u8
+https://cdn12isb.tamashaweb.com:8087/jazzauth/HumSitaray-abr/live/vsat-107L/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Nayatel SD"
 https://nayatvfe3.nayatel.com:3030/live4/channel37sd.stream/chunks.m3u8

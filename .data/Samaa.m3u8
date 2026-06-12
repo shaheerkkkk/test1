@@ -3,23 +3,15 @@
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Transworld High"
 https://edge1isb.transworld-home.com/lb0/Samaa/tracks-v1a1/mono.ts.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha High"
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/samaaTV-abr/live/vsat-123H/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tapmad High"
-https://tapmadlive.akamaized.net/tapmadold/saamanews.smil/chunklist_w1944288199_b1248000_slENG.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Transworld Med"
 https://edge1isb.transworld-home.com/lb0/Samaa/tracks-v2a1/mono.ts.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha Med"
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/samaaTV-abr/live/vsat-123M/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tapmad Med"
-https://tapmadlive.akamaized.net/tapmadold/saamanews.smil/chunklist_w1944288199_b748000_slEng.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha Low"
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/samaaTV-abr/live/vsat-123L/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tapmad Low"
-https://tapmadlive.akamaized.net/tapmadold/saamanews.smil/chunklist_w1944288199_b298000_slENG.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"
-https://cdn5.mjunoon.tv:8087/web/SAMAA-173/live/173H/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"
 https://cdn5.mjunoon.tv:8087/web/SAMAA-173/live/173M/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"
+https://cdn5.mjunoon.tv:8087/web/SAMAA-173/live/173H/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Nayatel SD"
 https://nayatvfe4.nayatel.com:3030/live2/channel04sd.stream/chunks.m3u8

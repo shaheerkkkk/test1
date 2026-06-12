@@ -4,13 +4,13 @@
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Transworld High"
 https://edge1isb.transworld-home.com/lb0/Jalwa/tracks-v1a1/mono.ts.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha High"
-https://cdn23lhr.tamashaweb.com:8087/jazzauth/jalwa-abr/live/135H/chunks.m3u8
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/jalwa-abr/live/vsat-81H/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Transworld Med"
 https://edge1isb.transworld-home.com/lb0/Jalwa/tracks-v2a1/mono.ts.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha Med"
-https://cdn23lhr.tamashaweb.com:8087/jazzauth/jalwa-abr/live/135M/chunks.m3u8
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/jalwa-abr/live/vsat-81M/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha Low"
-https://cdn23lhr.tamashaweb.com:8087/jazzauth/jalwa-abr/live/135L/chunks.m3u8
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/jalwa-abr/live/vsat-81L/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"
 https://cdn5.mjunoon.tv:8087/web/JalwaTV-135/live/135M/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"

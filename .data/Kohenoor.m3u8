@@ -9,9 +9,5 @@ https://cdn05khi.tamashaweb.com:8087/jazzauth/KohinoorTV-abr/live/vsat-87H/chunk
 https://edge1isb.transworld-home.com/lb0/Kohenoor/tracks-v2a1/mono.ts.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha Med"
 https://cdn05khi.tamashaweb.com:8087/jazzauth/KohinoorTV-abr/live/vsat-87M/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tapmad Med"
-https://tapmadlive.akamaized.net/tapmadold/kohenoor.smil/chunklist_w875805706_b748000_slEng.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha Low"
 https://cdn05khi.tamashaweb.com:8087/jazzauth/KohinoorTV-abr/live/vsat-87L/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tapmad Low"
-https://tapmadlive.akamaized.net/tapmadold/kohenoor.smil/chunklist_w875805706_b298000_slENG.m3u8

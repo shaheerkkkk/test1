@@ -9,12 +9,10 @@ https://edge1isb.transworld-home.com/lb0/Neo-News/tracks-v1a1/mono.ts.m3u8
 https://cdn12isb.tamashaweb.com:8087/jazzauth/NeoNews-abr/live/vsat-110H/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Transworld Med"
 https://edge1isb.transworld-home.com/lb0/Neo-News/tracks-v2a1/mono.ts.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tapmad Med"
-https://tapmadlive.akamaized.net/tapmadold/neo.smil/chunklist_w1248112840_b748000_slEng.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha Med"
+https://cdn12isb.tamashaweb.com:8087/jazzauth/NeoNews-abr/live/vsat-110M/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha Low"
 https://cdn12isb.tamashaweb.com:8087/jazzauth/NeoNews-abr/live/vsat-110L/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tapmad Low"
-https://tapmadlive.akamaized.net/tapmadold/neo.smil/chunklist_w1248112840_b298000_slENG.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"
 https://cdn5.mjunoon.tv:8087/web/Neo-110/live/110M/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"

@@ -14,6 +14,6 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/AajNews-abr/live/vsat-96M/chunks.m
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha Low"
 https://cdn12isb.tamashaweb.com:8087/jazzauth/AajNews-abr/live/vsat-96L/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"
-https://ml-pull-dvc-myco.io:2096/AAJ_NEWS/tracks-v1a1/mono.ts.m3u8
+https://ml-pull-dvc-myco.io:2096/AAJ_NEWS/tracks-v1a1/mono.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Nayatel SD"
 https://nayatvfe4.nayatel.com:3030/live2/channel68sd.stream/chunks.m3u8

@@ -4,18 +4,20 @@
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Transworld High"
 https://edge1isb.transworld-home.com/lb0/8XM/tracks-v1a1/mono.ts.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha High"
-https://cdn02khi.tamashaweb.com:8087/jazzauth/8xm-abr/live/131H/chunks.m3u8
+https://cdn02khi.tamashaweb.com:8087/jazzauth/8xm-abr/live/vsat-128H/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Transworld Med"
 https://edge1isb.transworld-home.com/lb0/8XM/tracks-v2a1/mono.ts.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha Med"
-https://cdn02khi.tamashaweb.com:8087/jazzauth/8xm-abr/live/131M/chunks.m3u8
+https://cdn02khi.tamashaweb.com:8087/jazzauth/8xm-abr/live/vsat-128M/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Tamasha Low"
-https://cdn02khi.tamashaweb.com:8087/jazzauth/8xm-abr/live/131L/chunks.m3u8
+https://cdn02khi.tamashaweb.com:8087/jazzauth/8xm-abr/live/vsat-128L/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"
 https://cdn5.mjunoon.tv:8087/web/8XM-131/live/131H/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"
 https://cdn5.mjunoon.tv:8087/web/8XM-131/live/131M/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"
 https://cdn5.mjunoon.tv:8087/web/8XM-131/live/131L/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Other SD"
+https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/tracks-v1a1/mono.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="Nayatel SD"
 https://nayatvfe3.nayatel.com:3030/live4/channel32sd.stream/chunks.m3u8
